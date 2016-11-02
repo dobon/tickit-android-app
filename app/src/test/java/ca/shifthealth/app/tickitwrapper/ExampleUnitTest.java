@@ -1,4 +1,4 @@
-package ca.shifthealth.dobon.tickitwrapper;
+package ca.shifthealth.app.tickitwrapper;
 
 import org.junit.Test;
 

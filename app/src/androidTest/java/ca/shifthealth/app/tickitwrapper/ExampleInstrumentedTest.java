@@ -1,4 +1,4 @@
-package ca.shifthealth.dobon.tickitwrapper;
+package ca.shifthealth.app.tickitwrapper;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ca.shifthealth.dobon.tickitwrapper", appContext.getPackageName());
+        assertEquals("ca.shifthealth.app.tickitwrapper", appContext.getPackageName());
     }
 }

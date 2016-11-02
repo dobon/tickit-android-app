@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#0099cc"
-    tools:context="ca.shifthealth.dobon.tickitwrapper.FullscreenActivity">
+    tools:context="ca.shifthealth.app.tickitwrapper.FullscreenActivity">
 
     <WebView
         android:layout_width="match_parent"

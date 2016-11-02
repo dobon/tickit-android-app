@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ca.shifthealth.dobon.tickitwrapper" >
+    package="ca.shifthealth.app.tickitwrapper" >
 
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".FullscreenActivity"
+            android:name="ca.shifthealth.app.tickitwrapper.FullscreenActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="sensorLandscape"
             android:windowSoftInputMode="adjustResize"
